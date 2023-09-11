@@ -24,7 +24,7 @@
 			"name": "Instruction",
 			"type": "url",
 			"icon": "https://skins1.apps.gen.tr/assets/skincenter_instruction.png",
-			"url": "https://skins1.apps.gen.tr/assets/how/"
+			"url": "https://skins1.apps.gen.tr/assets/how/",
 			"url_dark": "https://skins1.apps.gen.tr/assets/how/"
 		},
 
@@ -32,7 +32,7 @@
 			"name": "Privacy Policy",
 			"type": "assets",
 			"icon": "https://skins1.apps.gen.tr/assets/skincenter_privacy.png",
-			"url": "privacy_policy.html"
+			"url": "privacy_policy.html",
 			"url_dark": "privacy_policy_dark.html"
 		}
 	],
