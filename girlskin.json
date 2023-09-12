@@ -17,8 +17,8 @@
 			"name": "Home",
 			"type": "url",
 			"icon": "https://skins1.apps.gen.tr/assets/skincenter_home.png",
-			"url": "https://skins1.apps.gen.tr/skins/aestheticskins/",
-			"url_dark": "https://skins1.apps.gen.tr/skins/aestheticskins/indexdark.php"
+			"url": "https://skins1.apps.gen.tr/skins/girlskin/",
+			"url_dark": "https://skins1.apps.gen.tr/skins/girlskin/indexdark.php"
 		},
 		{
 			"name": "Instruction",
@@ -56,10 +56,10 @@
 		"unity_game_id": "4089993",
 		"unity_banner_placement_id": "banner",
 		"unity_interstitial_placement_id": "video",
-		"applovin_banner_ad_unit_id": "d74e1fc0e1118978",
-		"applovin_interstitial_ad_unit_id": "059a4391200006e8",
-		"applovin_native_ad_manual_unit_id": "9dac6a8cc7eea735",
-		"applovin_app_open_ad_unit_id": "6272b1bfe2d941fc",
+		"applovin_banner_ad_unit_id": "582963a757549a46",
+		"applovin_interstitial_ad_unit_id": "4305e78e22c0cf7c",
+		"applovin_native_ad_manual_unit_id": "1c4595772abe5685",
+		"applovin_app_open_ad_unit_id": "b6b35002ea5e5be8",
 		"applovin_banner_zone_id": "0",
 		"applovin_banner_mrec_zone_id": "0",
 		"applovin_interstitial_zone_id": "0",
