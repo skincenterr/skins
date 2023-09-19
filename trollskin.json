@@ -14,7 +14,7 @@
 	},	
 	"menus": [
 		{
-			"name": "Home",
+			"name": "Skins",
 			"type": "url",
 			"icon": "https://skins1.apps.gen.tr/assets/skincenter_home.png",
 			"url": "https://skins1.apps.gen.tr/skins/trollskin/",
@@ -71,8 +71,8 @@
 		"wortise_interstitial_ad_unit_id": "test-interstitial",
 		"wortise_native_ad_unit_id": "test-native",
 		"wortise_app_open_ad_unit_id": "test-app-open",
-		"interstitial_ad_interval_on_drawer_menu": 3,
-		"interstitial_ad_interval_on_web_page_link": 1,
+		"interstitial_ad_interval_on_drawer_menu": 2,
+		"interstitial_ad_interval_on_web_page_link": 2,
 		"native_ad_style_drawer_menu": "medium",
 		"native_ad_style_exit_dialog": "medium",
 		"placement": {
