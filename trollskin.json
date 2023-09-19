@@ -14,10 +14,10 @@
 	},	
 	"menus": [
 		{
-			"name": "Skins",
+			"name": "Home",
 			"type": "url",
 			"icon": "https://skins1.apps.gen.tr/assets/skincenter_home.png",
-			"url": "https://thecarcritics.com",
+			"url": "http://skins1.apps.gen.tr/skins/trollskin/",
 			"url_dark": "https://skins1.apps.gen.tr/skins/trollskin/indexdark.php"
 		},
 		{
