@@ -14,7 +14,7 @@
 	},	
 	"menus": [
 		{
-			"name": "Home",
+			"name": "Skins",
 			"type": "url",
 			"icon": "https://skins1.apps.gen.tr/assets/skincenter_home.png",
 			"url": "https://skins1.apps.gen.tr/skins/spdrmnskn/",
