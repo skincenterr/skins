@@ -8,30 +8,43 @@
 		"open_link_in_external_browser": false,
 		"zoom_controls": false,
 		"user_agent": "",
-		"privacy_policy_url": "https://sites.google.com/view/skincenter/",
-		"more_apps_url": "https://play.google.com/store/apps/developer?id=Skin+Center",
+		"privacy_policy_url": "https://sites.google.com/view/webdroid-privacy-policy",
+		"more_apps_url": "https://play.google.com/store/apps/developer?id=Solodroid",
 		"redirect_url": ""
 	},	
 	"menus": [
 		{
-			"name": "Skins",
+			"name": "Home",
 			"type": "url",
-			"icon": "https://skins1.apps.gen.tr/assets/skincenter_home.png",
-			"url": "https://skins1.apps.gen.tr/skins/spdrmnskn/",
-			"url_dark": "https://skins1.apps.gen.tr/skins/spdrmnskn/indexdark.php"
+			"icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
+			"url": "https://www.solodroid.net/demo/webdroid/pages/dashboard.html",
+			"url_dark": "https://www.solodroid.net/demo/webdroid/pages/dashboard_dark.html"
 		},
 		{
-			"name": "Instruction",
+			"name": "Portfolio",
 			"type": "url",
-			"icon": "https://skins1.apps.gen.tr/assets/skincenter_instruction.png",
-			"url": "https://skins1.apps.gen.tr/assets/how/",
-			"url_dark": "https://skins1.apps.gen.tr/assets/how/"
+			"icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
+			"url": "https://www.solodroid.net/demo/webdroid/pages/portfolio.html",
+			"url_dark": "https://www.solodroid.net/demo/webdroid/pages/portfolio_dark.html"
 		},
-
+		{
+			"name": "Testimonials",
+			"type": "url",
+			"icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png",
+			"url": "https://www.solodroid.net/demo/webdroid/pages/testimonials.html",
+			"url_dark": "https://www.solodroid.net/demo/webdroid/pages/testimonials_dark.html"
+		},
+		{
+			"name": "Contact us",
+			"type": "url",
+			"icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png",
+			"url": "https://www.solodroid.net/demo/webdroid/pages/contact.html",
+			"url_dark": "https://www.solodroid.net/demo/webdroid/pages/contact_dark.html"
+		},
 		{
 			"name": "Privacy Policy",
 			"type": "assets",
-			"icon": "https://skins1.apps.gen.tr/assets/skincenter_privacy.png",
+			"icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy-policy.png",
 			"url": "privacy_policy.html",
 			"url_dark": "privacy_policy_dark.html"
 		}
@@ -39,7 +52,7 @@
 	"ads": {
 		"ad_status": true,
 		"main_ads": "applovin_max",
-		"backup_ads": "applovin_max",
+		"backup_ads": "none",
 		"admob_publisher_id": "pub-3940256099942544",
 		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
 		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
@@ -72,17 +85,17 @@
 		"wortise_native_ad_unit_id": "test-native",
 		"wortise_app_open_ad_unit_id": "test-app-open",
 		"interstitial_ad_interval_on_drawer_menu": 3,
-		"interstitial_ad_interval_on_web_page_link": 1,
+		"interstitial_ad_interval_on_web_page_link": 5,
 		"native_ad_style_drawer_menu": "medium",
 		"native_ad_style_exit_dialog": "medium",
 		"placement": {
-		"banner_home": true,
-		"interstitial_drawer_menu": true,
-		"interstitial_web_page_link": 1,
-		"native_drawer_menu": true,
-		"native_exit_dialog": true,
-		"app_open_ad_on_start": true,
-		"app_open_ad_on_resume": true
+		  "banner_home": true,
+		  "interstitial_drawer_menu": true,
+		  "interstitial_web_page_link": true,
+		  "native_drawer_menu": true,
+		  "native_exit_dialog": true,
+		  "app_open_ad_on_start": true,
+		  "app_open_ad_on_resume": true
 		}
 	}
 }
