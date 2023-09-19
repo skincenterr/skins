@@ -72,7 +72,7 @@
 		"wortise_native_ad_unit_id": "test-native",
 		"wortise_app_open_ad_unit_id": "test-app-open",
 		"interstitial_ad_interval_on_drawer_menu": 3,
-		"interstitial_ad_interval_on_web_page_link": 1,
+		"interstitial_ad_interval_on_web_page_link": 0,
 		"native_ad_style_drawer_menu": "medium",
 		"native_ad_style_exit_dialog": "medium",
 		"placement": {
