@@ -14,7 +14,7 @@
 	},	
 	"menus": [
 		{
-			"name": "Skins",
+			"name": "Home",
 			"type": "url",
 			"icon": "https://skins1.apps.gen.tr/assets/skincenter_home.png",
 			"url": "https://skins1.apps.gen.tr/skins/spdrmnskn/",
@@ -39,7 +39,7 @@
 	"ads": {
 		"ad_status": true,
 		"main_ads": "applovin_max",
-		"backup_ads": "applovin_max",
+		"backup_ads": "none",
 		"admob_publisher_id": "pub-3940256099942544",
 		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
 		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
@@ -78,7 +78,7 @@
 		"placement": {
 		"banner_home": true,
 		"interstitial_drawer_menu": true,
-		"interstitial_web_page_link": 1,
+		"interstitial_web_page_link": true,
 		"native_drawer_menu": true,
 		"native_exit_dialog": true,
 		"app_open_ad_on_start": true,
