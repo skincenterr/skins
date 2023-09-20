@@ -14,7 +14,7 @@
 	},	
 	"menus": [
 		{
-			"name": "Home",
+			"name": "Skins",
 			"type": "url",
 			"icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
 			"url": "https://www.solodroid.net/demo/webdroid/pages/dashboard.html",
@@ -51,7 +51,7 @@
 	],
 	"ads": {
 		"ad_status": true,
-		"main_ads": "applovin_max",
+		"main_ads": "applovin_discovery",
 		"backup_ads": "none",
 		"admob_publisher_id": "pub-3940256099942544",
 		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
@@ -73,9 +73,9 @@
 		"applovin_interstitial_ad_unit_id": "c2747a93edbe40f0",
 		"applovin_native_ad_manual_unit_id": "933e7fda678e89e2",
 		"applovin_app_open_ad_unit_id": "5a592d64c3c495d5",
-		"applovin_banner_zone_id": "0",
-		"applovin_banner_mrec_zone_id": "0",
-		"applovin_interstitial_zone_id": "0",
+		"applovin_banner_zone_id": "f2170f805a87cd97",
+		"applovin_banner_mrec_zone_id": "933e7fda678e89e2",
+		"applovin_interstitial_zone_id": "c2747a93edbe40f0",
 		"ironsource_app_key": "85460dcd",
 		"ironsource_banner_placement_name": "DefaultBanner",
 		"ironsource_interstitial_placement_name": "DefaultInterstitial",
