@@ -14,7 +14,7 @@
 	},	
 	"menus": [
 		{
-			"name": "Home",
+			"name": "Skins",
 			"type": "url",
 			"icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
 			"url": "https://www.solodroid.net/demo/webdroid/pages/dashboard.html",
