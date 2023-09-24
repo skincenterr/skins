@@ -37,8 +37,8 @@
 		}
 	],
 	"ads": {
-		"ad_status": true,
-		"main_ads": "unity",
+		"ad_status": false,
+		"main_ads": "applovin_max",
 		"backup_ads": "none",
 		"admob_publisher_id": "pub-3940256099942544",
 		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
@@ -53,9 +53,9 @@
 		"fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
 		"fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
 		"startapp_app_id": "0",
-		"unity_game_id": "4476350",
-		"unity_banner_placement_id": "Banner_Android",
-		"unity_interstitial_placement_id": "Interstitial_Android",
+		"unity_game_id": "4089993",
+		"unity_banner_placement_id": "banner",
+		"unity_interstitial_placement_id": "video",
 		"applovin_banner_ad_unit_id": "e5439c276afcd1fc",
 		"applovin_interstitial_ad_unit_id": "5649ea11993dfc71",
 		"applovin_native_ad_manual_unit_id": "e9a1e2fbc1d0535d",
@@ -77,7 +77,7 @@
 		"native_ad_style_exit_dialog": "medium",
 		"placement": {
 		"banner_home": true,
-		"interstitial_drawer_menu": true,
+		"interstitial_drawer_menu": false,
 		"interstitial_web_page_link": true,
 		"native_drawer_menu": true,
 		"native_exit_dialog": true,

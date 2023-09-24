@@ -17,7 +17,7 @@
 			"name": "Home",
 			"type": "url",
 			"icon": "https://skins1.apps.gen.tr/assets/skincenter_home.png",
-			"url": "http://skins1.apps.gen.tr/skins/trollskin/",
+			"url": "https://skins1.apps.gen.tr/skins/trollskin/",
 			"url_dark": "https://skins1.apps.gen.tr/skins/trollskin/indexdark.php"
 		},
 		{
@@ -37,8 +37,8 @@
 		}
 	],
 	"ads": {
-		"ad_status": true,
-		"main_ads": "admob",
+		"ad_status": false,
+		"main_ads": "applovin_max",
 		"backup_ads": "none",
 		"admob_publisher_id": "pub-3940256099942544",
 		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
@@ -71,13 +71,13 @@
 		"wortise_interstitial_ad_unit_id": "test-interstitial",
 		"wortise_native_ad_unit_id": "test-native",
 		"wortise_app_open_ad_unit_id": "test-app-open",
-		"interstitial_ad_interval_on_drawer_menu": 2,
-		"interstitial_ad_interval_on_web_page_link": 5,
+		"interstitial_ad_interval_on_drawer_menu": 3,
+		"interstitial_ad_interval_on_web_page_link": 1,
 		"native_ad_style_drawer_menu": "medium",
 		"native_ad_style_exit_dialog": "medium",
 		"placement": {
 		"banner_home": true,
-		"interstitial_drawer_menu": true,
+		"interstitial_drawer_menu": false,
 		"interstitial_web_page_link": true,
 		"native_drawer_menu": true,
 		"native_exit_dialog": true,
